@@ -1,0 +1,11 @@
+name = "SMACCsLessLethal";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "SMACCsLessLethal";
+overview = "";
+action = "";
+author = "";
+authorID = "";
+version = "";

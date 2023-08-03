@@ -1,0 +1,6 @@
+LANGUAGE,ORIGINAL,ENGLISH,CZECH,GERMAN,RUSSIAN,POLISH,HUNGARIAN,ITALIAN,SPANISH,FRENCH,CHINESE,JAPANESE,PORTOGUESE,CHINESESIMP
+==== ==== ==== SLOTS,
+STR_SMACC_ExampleSlot_displayName,Example Slot,Example Slot,
+==== ==== ==== ITEMS,
+STR_SMACC_ExampleItem_displayName,Example Item,Example Item,
+STR_SMACC_ExampleItem_descriptionShort,Example Item Description,Example Item Description,

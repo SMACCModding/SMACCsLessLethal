@@ -1,0 +1,18 @@
+# DayZ
+*.pbo
+*.biprivatekey
+*.bin
+user.cfg
+
+# Sever
+*.RPT
+*.log
+*.ADM
+*.cfg
+*.mdmp
+Profile/
+SC/
+ServerProfile/
+
+# IDEs
+.idea/
